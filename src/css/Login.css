@@ -1,0 +1,20 @@
+.containerPrincipal {
+  position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    border: 1px solid green;
+    padding: 40px;
+    background-color: white;
+}
+.card-header{
+  background-color: rgb(121, 139, 179);
+}
+h2{
+  text-align: center;
+  margin-top: 10px;
+}
+
+.tabla{
+  margin-top:50px;
+}
